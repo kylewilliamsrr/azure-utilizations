@@ -1,5 +1,4 @@
 <p align="center">
-![image](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/4df67f67-6ed0-46c0-9383-e1fbc61cf722)
 
 </p>
 

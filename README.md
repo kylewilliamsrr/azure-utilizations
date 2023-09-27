@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+![image](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/4df67f67-6ed0-46c0-9383-e1fbc61cf722)
+
 </p>
 
 <h1>Microsoft Azure Utilizations</h1>

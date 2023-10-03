@@ -29,6 +29,54 @@ In this tutorial, we observe how to utilize Microsoft Azure to create and manage
 <h2>Actions and Observations</h2>
 
 <p>
+
+  ![creating rg](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/49d5bf68-50a6-4760-a103-0840d9e20407)
+
+</p>
+<p>
+Insert Details Here
+</p>
+<br />
+
+<p>
+
+![creating rg2](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/efbb7a93-adcc-4192-b542-24262f1aa738)
+<br />
+![creating rg3](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/abae046d-e227-435d-83db-44a58608a5c8)
+<br />
+![creating rg4](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/b7eb6885-7071-4ac8-9535-550f31bd5c21)
+
+</p>
+<p>
+Insert Details Here
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Insert Details Here
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Insert Details Here
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Insert Details Here
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>

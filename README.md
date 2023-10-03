@@ -53,7 +53,9 @@ Insert Details Here
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![creating rg5](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/6bdb1c9a-b5c6-40ca-acc5-2bcc64776b75)
+
 </p>
 <p>
 Insert Details Here
@@ -61,7 +63,10 @@ Insert Details Here
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![creating vm](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/cf75e7cc-777a-42ef-8b24-75e3337d0c29)![creating vm2](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/5302b4ea-f72a-4edc-8b14-30b29fb31e1b)
+
+
 </p>
 <p>
 Insert Details Here

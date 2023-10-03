@@ -64,7 +64,8 @@ Insert Details Here
 
 <p>
 
-![creating vm](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/cf75e7cc-777a-42ef-8b24-75e3337d0c29)![creating vm2](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/5302b4ea-f72a-4edc-8b14-30b29fb31e1b)
+![creating vm](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/cf75e7cc-777a-42ef-8b24-75e3337d0c29 =50%)
+![creating vm2](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/5302b4ea-f72a-4edc-8b14-30b29fb31e1b =50%)
 
 
 </p>

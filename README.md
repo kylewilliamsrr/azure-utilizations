@@ -64,7 +64,7 @@ Insert Details Here
 
 <p>
 
-<![creating vm](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/cf75e7cc-777a-42ef-8b24-75e3337d0c29) =20%x/>
+![creating vm](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/cf75e7cc-777a-42ef-8b24-75e3337d0c29) 
 ![creating vm2](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/5302b4ea-f72a-4edc-8b14-30b29fb31e1b)
 
 
@@ -75,7 +75,10 @@ Insert Details Here
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![creating vm3](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/4f1a3504-05e3-4556-961d-f90e014e7004)
+![creating vm4](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/03544a5e-937f-4970-aad9-c3b172cf728b)
+
 </p>
 <p>
 Insert Details Here
@@ -83,7 +86,9 @@ Insert Details Here
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![creating vm5](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/8f6a546d-4584-4e64-85d0-7b5c35fc8f86)
+
 </p>
 <p>
 Insert Details Here
@@ -91,7 +96,9 @@ Insert Details Here
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![creating vm6](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/35794e9c-5ad6-40d2-b42f-98cb170a7563)
+
 </p>
 <p>
 Insert Details Here
@@ -99,7 +106,9 @@ Insert Details Here
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![creating vm7](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/3444b4eb-f39d-44a3-b518-93fe17698b16)
+
 </p>
 <p>
 Insert Details Here
@@ -107,7 +116,9 @@ Insert Details Here
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![creating vm8](https://github.com/kylewilliamsrr/azure-utilizations/assets/144828759/c2dd1fa9-d01f-45cb-b94d-52ee14ec13a3)
+
 </p>
 <p>
 Insert Details Here

@@ -35,7 +35,7 @@ In this tutorial, we observe how to utilize Microsoft Azure to create and manage
 </p>
 <p>
 
-Search 'resource groups' or find the icon on the homepage. In the Resource Group Directory, you will create a new resource group to host your virtual machines. <br>
+<h3>Search 'resource groups' or find the icon on the homepage. In the Resource Group Directory, you will create a new resource group to host your virtual machines. <h3>
 </p>
 <br />
 

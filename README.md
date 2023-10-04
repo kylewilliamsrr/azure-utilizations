@@ -34,7 +34,7 @@ In this tutorial, we observe how to utilize Microsoft Azure to create and manage
 
 </p>
 <p>
-Insert Details Here
+Search 'resource groups' or find the icon on the homepage. In the Resource Group Directory, you will create a new resource group to host your virtual machines. 
 </p>
 <br />
 
@@ -48,7 +48,8 @@ Insert Details Here
 
 </p>
 <p>
-Insert Details Here
+Under the Basics tab create an identifiable group name and select the region to open a new group. In this case, US West seems to provide the most available resources. You will then select next to add any tags you desire and then continue on to review, validate, and create your new resource group. 
+
 </p>
 <br />
 
@@ -58,7 +59,7 @@ Insert Details Here
 
 </p>
 <p>
-Insert Details Here
+All new resource groups can be viewed and managed from the Resource Group Directory. 
 </p>
 <br />
 
@@ -70,7 +71,7 @@ Insert Details Here
 
 </p>
 <p>
-Insert Details Here
+Search 'virtual machines' or find the icon on the homepage. You will select an appropriate resource group to host your new virtual machine and provide an identifiable virtual machine name. You will then select the same region as your resource group. 
 </p>
 <br />
 
@@ -81,7 +82,7 @@ Insert Details Here
 
 </p>
 <p>
-Insert Details Here
+Select the necessary virtual machine server and processor for your project.
 </p>
 <br />
 
@@ -91,7 +92,7 @@ Insert Details Here
 
 </p>
 <p>
-Insert Details Here
+Input an administrator account username and password for your virtual machine. 
 </p>
 <br />
 
@@ -101,7 +102,7 @@ Insert Details Here
 
 </p>
 <p>
-Insert Details Here
+You can configure the virtual machine's NIC settings and various other selections under the following tabs. 
 </p>
 <br />
 
@@ -111,7 +112,7 @@ Insert Details Here
 
 </p>
 <p>
-Insert Details Here
+Review, validate, and create your new virtual machine. 
 </p>
 <br />
 
@@ -121,6 +122,6 @@ Insert Details Here
 
 </p>
 <p>
-Insert Details Here
+All new virtual machines can be viewed and managed from the Virtual Machine Directory. 
 </p>
 <br />
